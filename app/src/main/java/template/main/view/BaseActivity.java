@@ -1,4 +1,4 @@
-package template.main.mvp.view;
+package template.main.view;
 
 import android.support.v7.app.AppCompatActivity;
 
